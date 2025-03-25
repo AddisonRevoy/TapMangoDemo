@@ -23,7 +23,7 @@ Example configuration:
 * RequestsPerSecond → Global API rate limit
 * DefaultSenderLimit → Limit for senders not in SenderLimits
 * SenderInactivitySeconds → Removes inactive senders after X seconds
-* SenderLimits → Custom per-sender limits, formated as "<SenderNumber>" : <Limit>
+* SenderLimits → Custom per-sender limits, formated as "SenderNumber" : Limit
 
 ## API Endpoints
 ### Send SMS
